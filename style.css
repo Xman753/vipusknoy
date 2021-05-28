@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+.social2{
+    position:fixed;
+    top:190px;
+    right:0px;
+    width:100px;
+    background-color:green;
+    height:200px;
+}
+.link-nav{
+    color:indianred;
+}
+.link-nav:hover{
+    background-color:violet;
+}
+.link-nav:visited{
+    background-color:purple;
+}
